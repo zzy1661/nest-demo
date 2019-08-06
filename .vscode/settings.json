@@ -1,0 +1,32 @@
+{
+	"editor.tabSize": 4,
+	"editor.formatOnSave": true,
+
+	"tslint.autoFixOnSave": true,
+
+	"prettier.tslintIntegration": true,
+	"prettier.printWidth": 120,
+	"prettier.tabWidth": 4,
+	"prettier.useTabs": true,
+	"prettier.singleQuote": true,
+	"prettier.trailingComma": "none",
+	"prettier.bracketSpacing": false,
+	"prettier.jsxBracketSameLine": true,
+	"prettier.semi": false,
+
+	"files.autoSave": "afterDelay",
+	"files.autoSaveDelay": 60000000,
+
+	"editor.wordWrap": "on",
+	"editor.wordWrapColumn": 80,
+	"editor.wrappingIndent": "indent",
+
+	"html.format.wrapAttributes": "force",
+
+	"javascript.preferences.quoteStyle": "single",
+	"javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+	"javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+	"typescript.preferences.quoteStyle": "single",
+	"typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+	"typescript.tsdk": "node_modules\\typescript\\lib"
+}
